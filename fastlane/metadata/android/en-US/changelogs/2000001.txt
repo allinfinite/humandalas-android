@@ -1,0 +1,1 @@
+Rebuilt for current Android devices with an offline 46-card library and a complete five-step guided Humandala. Removed tracking, accounts, ads, purchases, push notifications, and cloud dependencies.

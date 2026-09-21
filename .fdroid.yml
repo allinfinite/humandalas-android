@@ -1,0 +1,26 @@
+Categories:
+  - Sports & Health
+License: GPL-3.0-or-later
+AuthorName: Daniel Levy
+AutoName: Humandalas
+Summary: Create a shared five-step intention with a circle of people
+Description: |-
+  Humandalas is a simple offline group practice for gathering with intention.
+
+  Build a complete Humandala in five stages: Connection, Intention,
+  Cultivation, Offering, and Anchor. Follow a guided practice or browse the
+  complete 46-card library. There are no accounts, ads, analytics, purchases,
+  tracking, or network access.
+
+Builds:
+  - versionName: 2.0.0
+    versionCode: 2000001
+    commit: v2.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: 2.0.0
+CurrentVersionCode: 2000001

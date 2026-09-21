@@ -1,0 +1,7 @@
+Humandalas is a simple group practice for gathering with intention.
+
+Build a complete Humandala in five stages: Connection, Intention, Cultivation, Offering, and Anchor. The guided flow selects one practice from each stage, or you can browse the complete 46-card library at your own pace.
+
+Everything works offline. There are no accounts, ads, analytics, purchases, or tracking.
+
+Humandalas is free software licensed under GPL-3.0-or-later.

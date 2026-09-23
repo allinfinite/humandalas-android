@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1 — 2026-09-23
+
+- Pinned the official Gradle 8.14.5 binary-distribution SHA-256 checksum for build integrity.
+
 ## 2.0.0 — 2026-09-21
 
 - Rebuilt Humandalas as a modern native Android app targeting API 36.

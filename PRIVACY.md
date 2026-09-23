@@ -1,6 +1,6 @@
 # Humandalas Privacy
 
-Humandalas 2.0.0 does not collect, transmit, sell, or share personal data.
+Humandalas 2.0.1 does not collect, transmit, sell, or share personal data.
 
 The app works offline. It does not request camera, microphone, location, contacts, storage, notification, or internet permission. It contains no analytics, advertising, push-notification, billing, login, tracking, or cloud service.
 
@@ -10,4 +10,4 @@ Android or the device manufacturer may provide operating-system backup or device
 
 Effective: September 21, 2026.
 
-Privacy questions may be submitted through the public source repository issue tracker once the release repository is published.
+Privacy questions may be submitted through the public source repository issue tracker.

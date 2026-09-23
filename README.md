@@ -35,4 +35,4 @@ Daniel Levy has authorized release of the source code, runtime-drawn geometric a
 
 ## Release status
 
-Version 2.0.0 is a usability rebuild and has not been published. A production release still needs a public source repository, a Daniel-controlled signing key, release signing configuration outside the repository, screenshots, and final metadata review.
+Version 2.0.1 is published as GPL-3.0-or-later source with screenshots and F-Droid metadata. Release APKs remain unsigned in the source tree so F-Droid can build and sign accepted releases independently.
